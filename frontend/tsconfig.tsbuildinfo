@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/components/apisettings.tsx","./src/components/chatinterface.tsx","./src/components/dashboard.tsx","./src/components/decisioninput.tsx","./src/components/historypanel.tsx","./src/components/reasonchain.tsx","./src/components/thinkingprocess.tsx"],"version":"5.9.3"}
